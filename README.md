@@ -37,6 +37,7 @@ This project was created for learning and practice purposes to improve:
 
 ## Live Demo
 
+ https://darshanbb12.github.io/Spotify/
 
 ## Author
 
